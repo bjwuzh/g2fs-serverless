@@ -484,7 +484,7 @@ addEventListener('fetch', event => {
 
                       </p>
   
-                      <a href="https://github.com/n0vad3v/g2fs-serverless">
+                      <a href="https://github.com/bjwuzh/g2fs-serverless.git">
                           <button class="bg-transparent text-grey-darkest font-bold uppercase tracking-wide py-3 px-6 border-2 border-grey-light hover:border-grey rounded-lg">
                               GitHub: g2fs-serverless
                           </button>
@@ -568,7 +568,7 @@ async function postFeiShuUrl(request) {
           "elements": [
             {
               "tag": "plain_text",
-              "content": "Sent by [G2FS Serverless](https://github.com/n0vad3v/g2fs-serverless)"
+              "content": "Sent by [前端性能监控](http://39.105.181.226:3000/dashboards)"
             }
           ]
         }
